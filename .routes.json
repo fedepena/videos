@@ -101,6 +101,12 @@
         "lang": "es",
         "id": "XT7-2DQYnLI"
     },
+    "ingrese-el-inventario-inicial": {
+        "title": "Ingrese el inventario inicial",
+        "desc": "Para ingresar el inventario inicial necesitamos ir a controlar inventario y usar la acción agregar inventario.",
+        "lang": "es",
+        "id": "U6kRs9WOFGo"
+    },
     "introduction": {
         "title": "Introduction",
         "desc": "Take the financial reins of your business and keep its accounts in order and up to date.",
@@ -178,5 +184,11 @@
         "desc": "To use multiple prefixes and numbering on our invoices we need to change the invoice settings.",
         "lang": "en",
         "id": "slwxy2ZD3s4"
+    },
+    "enter-the-initial-inventory": {
+        "title": "Enter the initial inventory",
+        "desc": "To enter the initial inventory we need to go to control inventory and use the add inventory action.",
+        "lang": "en",
+        "id": "kp2B3y9WKPQ"
     }
 }
