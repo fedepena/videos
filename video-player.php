@@ -1,12 +1,12 @@
+<?php require './bootstrap.php'; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?= $lang; ?>">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
-        <link rel="shortcut icon" href="../web/images/favicon.png">
-        <title>Video Player</title>
+        <meta name="description" content="<?= $desc; ?>">
+        <title><?= $title; ?></title>
         <!-- Bootstrap core CSS -->
         <link href="../help/bootstrap/css/bootstrap.css" rel="stylesheet">
         <!-- Custom styles for this template -->
@@ -26,7 +26,7 @@
             <div class="row">
                 <div>
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?= $_GET['id']; ?>?autoplay=1&rel=0&allowFullScreen='allowFullScreen'"></iframe>
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?= $id; ?>?autoplay=1&rel=0"  allowFullScreen=1></iframe>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
         }();
         drift.SNIPPET_VERSION = '0.3.1';
         drift.config({
-          locale: "es"
+          locale: "<?= $lang; ?>"
         });
         drift.load('33c7h6tzniik');
         </script>
