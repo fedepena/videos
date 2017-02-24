@@ -41,6 +41,6 @@ if (!$find) {
 
 
 function file_to_array($route) {
-    $content = File::get('./.' . $route . '.json');
+    $content = File::get('./' . $route . '.json');
     return json_decode($content, true);
 }
