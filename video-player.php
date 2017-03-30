@@ -6,7 +6,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="<?= $desc; ?>">
-        <title><?= $title; ?></title>
+        <title>
+            <?= $title; ?>
+        </title>
         <!-- Bootstrap core CSS -->
         <link href="../help/bootstrap/css/bootstrap.css" rel="stylesheet">
         <!-- Custom styles for this template -->
@@ -24,10 +26,23 @@
         <!-- Placed at the end of the document so the pages load faster -->
         <div class="container">
             <div class="row">
+                <div class="col-md-9 col-sm-9">
+                    <h3>Introducción: Cómo y Dónde Arrancar - Parte 1</h3> 
+                </div>
+                <div class="col-md-3 text-right col-sm-3">
+                    <h4><a href="#">Siguiente video</a></h4> 
+                </div>
+            </div>
+            <div class="row">
                 <div>
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?= $id; ?>?autoplay=1&rel=0"  allowFullScreen=1></iframe>
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?= $id; ?>?autoplay=1&rel=0" allowfullscreen=""></iframe>
                     </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <h4>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</h4>                      
                 </div>
             </div>
         </div>
