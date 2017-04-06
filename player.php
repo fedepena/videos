@@ -1,13 +1,14 @@
-<?php require './bootstrap.php'; ?>
+<?php require __DIR__ . '/bootstrap.php'; ?>
+
 <!DOCTYPE html>
-<html lang="<?= $lang; ?>">
+<html lang="<?= $video['lang']; ?>">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="<?= $desc; ?>">
+        <meta name="description" content="<?= $video['desc']; ?>">
         <title>
-            <?= $title; ?>
+            <?= $video['title']; ?>
         </title>
         <!-- Bootstrap core CSS -->
         <link href="../help/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -27,16 +28,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9 col-sm-9">
-                    <h3>Introducción: Cómo y Dónde Arrancar - Parte 1</h3> 
+                    <h3><?= $video['title']; ?></h3>
                 </div>
+                <?php if ($next = $video->next()) : ?>
                 <div class="col-md-3 text-right col-sm-3">
-                    <h4><a href="#">Siguiente video</a></h4> 
+                    <h4><a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a></h4>
                 </div>
+                <?php endif; ?>
             </div>
             <div class="row">
                 <div>
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?= $id; ?>?autoplay=1&rel=0" allowfullscreen=""></iframe>
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/<?= $video['id']; ?>?autoplay=1&rel=0" allowfullscreen=""></iframe>
                     </div>
                 </div>
             </div>
@@ -72,7 +75,7 @@
         }();
         drift.SNIPPET_VERSION = '0.3.1';
         drift.config({
-          locale: "<?= $lang; ?>"
+          locale: "<?= $video['lang']; ?>"
         });
         drift.load('33c7h6tzniik');
         </script>
