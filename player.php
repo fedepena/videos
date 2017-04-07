@@ -1,5 +1,4 @@
 <?php require __DIR__ . '/bootstrap.php'; ?>
-
 <!DOCTYPE html>
 <html lang="<?= $video['lang']; ?>">
     <head>
@@ -31,9 +30,9 @@
                     <h3><?= $video['title']; ?></h3>
                 </div>
                 <?php if ($next = $video->next()) : ?>
-                <div class="col-md-3 text-right col-sm-3">
-                    <h4><a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a></h4>
-                </div>
+                    <div class="col-md-3 text-right col-sm-3">
+                        <h4><a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a></h4>
+                    </div>
                 <?php endif; ?>
             </div>
             <div class="row">
@@ -45,7 +44,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-12">
-                    <h4>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</h4>                      
+                    <h4><?= $video['desc']; ?></h4> 
                 </div>
             </div>
         </div>
