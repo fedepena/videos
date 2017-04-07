@@ -1,0 +1,28 @@
+
+
+body
+{
+    margin-top: 1.5%;
+    background-color: #141313;
+}
+
+h3
+{
+    margin-top: 0px;
+}
+
+h3, h4
+{
+    color: #7e7e7e;
+}
+
+a
+{
+    color: #7e7e7e;
+}
+
+
+a:hover
+{
+    color: #FFFFFF;
+}
