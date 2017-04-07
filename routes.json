@@ -254,7 +254,8 @@
     {
         "slug": "como-y-donde-arrancar-parte-1",
         "title": "Cómo y Dónde Arrancar - Parte 1",
-        "desc": "Paso 1: Ingresemos los saldos de cuentas por cobrar y pagar...",
+        "desc": "Primero lo primero: Antes de comenzar a ingresar transacciones debemos ingresar los saldos iniciales de cuentas por cobrar, cuentas por pagar, inventario y efectivo (incluyendo créditos)
+",
         "lang": "es",
         "id": "61xx5xK9hTM",
         "next": "v5qQ8-xtFEw"
@@ -262,7 +263,7 @@
     {
         "slug": "como-y-donde-arrancar-parte-2",
         "title": "Cómo y Dónde Arrancar - Parte 2",
-        "desc": "Lo primero que vamos a hacer es simular una compra (a crédito)...",
+        "desc": "Estamos listos: Revisemos cómo ingresar diferentes tipos de transacciones y el impacto de las mismas en las diferentes secciones de la aplicación ",
         "lang": "es",
         "id": "v5qQ8-xtFEw"
     }
