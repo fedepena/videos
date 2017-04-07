@@ -250,5 +250,20 @@
         "desc": "To enter all those accounts that we have outstanding receivable and payable we must do it through a transaction.",
         "lang": "en",
         "id": "fSXDJSnE3FY"
+    },
+    {
+        "slug": "como-y-donde-arrancar-parte-1",
+        "title": "Cómo y Dónde Arrancar - Parte 1",
+        "desc": "Paso 1: Ingresemos los saldos de cuentas por cobrar y pagar...",
+        "lang": "es",
+        "id": "61xx5xK9hTM",
+        "next": "v5qQ8-xtFEw"
+    },
+    {
+        "slug": "como-y-donde-arrancar-parte-2",
+        "title": "Cómo y Dónde Arrancar - Parte 2",
+        "desc": "Lo primero que vamos a hacer es simular una compra (a crédito)...",
+        "lang": "es",
+        "id": "v5qQ8-xtFEw"
     }
 ]
