@@ -9,6 +9,7 @@
         <title>
             <?= $video['title']; ?>
         </title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700">
         <!-- Bootstrap core CSS -->
         <link href="../help/bootstrap/css/bootstrap.css" rel="stylesheet">
         <!-- Custom styles for this template -->
