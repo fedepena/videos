@@ -31,12 +31,11 @@
                 <div class="col-md-9 col-sm-9">
                     <h1><?= $video['title']; ?></h1>
                 </div>
-
+                <?php if ($next = $video->next()) : ?>
                     <div class="col-md-3 text-right col-sm-3">
-                      <?php if ($next = $video->next()) : ?>
-                        <h4><a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a></h4>
-                      <?php endif; ?>
-                    </div>                
+                        <h3><a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a></h3>
+                    </div>
+                <?php endif; ?>
             </div>
             <div class="row">
                 <div>
