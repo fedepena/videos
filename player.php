@@ -33,7 +33,7 @@
                 </div>
                 <?php if ($next = $video->next()) : ?>
                     <div class="col-md-3 text-right col-sm-3">
-                        <a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a>
+                        <h4><a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a></h4>
                     </div>
                 <?php endif; ?>
             </div>
