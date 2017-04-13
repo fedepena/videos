@@ -9,7 +9,7 @@
         <title>
             <?= $video['title']; ?>
         </title>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:600|Quattrocento+Sans:400">
         <!-- Bootstrap core CSS -->
         <link href="../help/bootstrap/css/bootstrap.css" rel="stylesheet">
         <!-- Custom styles for this template -->
@@ -29,11 +29,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9 col-sm-9">
-                    <h3><?= $video['title']; ?></h3>
+                    <h1><?= $video['title']; ?></h1>
                 </div>
                 <?php if ($next = $video->next()) : ?>
                     <div class="col-md-3 text-right col-sm-3">
-                        <h4><a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a></h4>
+                        <a href="<?= $next->slug; ?>"><?= $next->translate(); ?></a>
                     </div>
                 <?php endif; ?>
             </div>
@@ -46,7 +46,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-12">
-                    <h4><?= $video['desc']; ?></h4>
+                    <h2><?= $video['desc']; ?></h2>
                 </div>
             </div>
         </div>

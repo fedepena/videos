@@ -5,6 +5,7 @@ body
     margin-top: 1.5%;
     background-color: #141313;
     font-family: Quattrocento Sans;
+    color: #7e7e7e;
 }
 
 h3
@@ -20,10 +21,23 @@ h3, h4
 a
 {
     color: #7e7e7e;
+    font-family: Cabin;
+    font-size: 18px;
 }
-
 
 a:hover
 {
     color: #FFFFFF;
 }
+
+h1
+{
+    font-family: Cabin;
+    font-size: 24px;
+}
+
+h2
+{
+    font-size: 18px;
+}
+
