@@ -262,8 +262,23 @@
     {
         "slug": "como-y-donde-arrancar-parte-2",
         "title": "Cómo y Dónde Arrancar - Parte 2",
-        "desc": "Estamos listos: Revisemos cómo ingresar diferentes tipos de transacciones y el impacto de las mismas en las diferentes secciones de la aplicación",
+        "desc": "Estamos listos para comenzar: Revisemos cómo ingresar diferentes tipos de transacciones y el impacto de las mismas en las diferentes secciones de la aplicación",
         "lang": "es",
         "id": "v5qQ8-xtFEw"
+    },
+    {
+        "slug": "how-and-where-to-start-part-1",
+        "title": "How and Where to Start - Part 1",
+        "desc": "First things first: Before we start entering transactions, we must enter the initial balances for receivables, payables, inventory and cash (including credits)",
+        "lang": "en",
+        "id": "",
+        "next": ""
+    },
+    {
+        "slug": "how-and-where-to-start-part-2",
+        "title": "How and Where to Start - Part 2",
+        "desc": "We are ready to start: Let’s review how to enter different type of transactions and their impact on the different sections of the application",
+        "lang": "en",
+        "id": ""
     }
 ]
