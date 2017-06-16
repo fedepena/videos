@@ -70,8 +70,8 @@
         "id": "IuEDwIhuOEo"
     },
     {
-        "slug": "configure-los-vencimientos-terminos-de-sus-facturas",
-        "title": "Configure los vencimientos\/términos de sus facturas",
+        "slug": "configure-los-vencimientos-para-sus-facturas",
+        "title": "Configure los vencimientos para sus facturas",
         "desc": "Ahora es posible configurar los días usados para calcular el vencimiento en las facturas.",
         "lang": "es",
         "id": "jeXeAUYDjjM"
@@ -189,8 +189,8 @@
         "id": "IVGATE-wngQ"
     },
     {
-        "slug": "configure-the-due-date-terms-of-your-invoices",
-        "title": "Configure the due date\/terms of your invoices",
+        "slug": "configure-the-due-date-terms-of-your-invoices-your-invoices",
+        "title": "Configure the due date for your invoices",
         "desc": "It is now possible to configure the days used to calculate due dates in invoices.",
         "lang": "en",
         "id": "7c0z7d4deKs"
