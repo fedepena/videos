@@ -19,7 +19,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
         <link href="player.css" rel="stylesheet" type="text/css">
-        <script type="text/javascript" src="../web/js/km.js"></script>
+        <script type="text/javascript" src="../js/km.js"></script>
         <script type="text/javascript" src="../help/js/drift-<?= $video['lang']; ?>.js"></script>
     </head>
     <body>

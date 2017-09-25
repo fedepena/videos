@@ -1,45 +1,11 @@
 [
     {
-        "slug": "mantenga-las-cuentas-de-su-negocio-bajo-control-y-al-dia",
-        "title": "Mantenga las cuentas de su negocio bajo control y al día",
-        "desc": "Tome las riendas financieras de su negocio y mantenga sus cuentas en orden y al dia.",
+        "slug": "cree-sus-impuestos-y-retenciones-parte-1",
+        "title": "Cree sus impuestos y retenciones - Parte 1",
+        "desc": "Maneje los impuestos y retenciones acorde a las necesidades de su país.",
         "lang": "es",
-        "id": "4Hx7HXOjp0s"
-    },
-    {
-        "slug": "facturele-a-sus-clientes-en-forma-simple-y-elegante",
-        "title": "Factúrele a sus clientes en forma simple y elegante",
-        "desc": "Cree y personalice sus facturas con el logo de su compañía, imprímales o envíelas directamente por email a sus clientes.",
-        "lang": "es",
-        "id": "bN-rDaysBaY"
-    },
-    {
-        "slug": "haga-sus-cobros-a-tiempo",
-        "title": "Haga sus cobros a tiempo",
-        "desc": "Mantenga sus cuentas por cobrar al día para asegurarse que sus clientes le están pagando según lo acordado.",
-        "lang": "es",
-        "id": "K8rIA7hA2Uk"
-    },
-    {
-        "slug": "maneje-su-flujo-de-caja",
-        "title": "Maneje su flujo de caja",
-        "desc": "Manténgase “en la jugada” y evite sorpresas desagradables registrando cobros y pagos pendientes, así como gastos recurrentes.",
-        "lang": "es",
-        "id": "-z_zb0t9BlE"
-    },
-    {
-        "slug": "revise-los-pagos-de-ingresos-y-gastos",
-        "title": "Revise los pagos de ingresos y gastos",
-        "desc": "Manténgase \"encima\" de las entras y salidas de efectivo para que su información esté al día y sea confiable .",
-        "lang": "es",
-        "id": "pzuHulN2N88"
-    },
-    {
-        "slug": "controle-su-efectivo",
-        "title": "Controle su efectivo",
-        "desc": "Asegúrese que todo (lo que debería) ha sido contabilizado manteniendo sus cuentas de efectivo actualizadas y reconciliadas.",
-        "lang": "es",
-        "id": "FVv_pc9AcsU"
+        "id": "9V0MTOZLcdk",
+        "next": "JAsQTbqEkik"
     },
     {
         "slug": "cree-sus-impuestos-y-retenciones-parte-2",
@@ -47,27 +13,6 @@
         "desc": "Maneje los impuestos y retenciones acorde a las necesidades de su país.",
         "lang": "es",
         "id": "JAsQTbqEkik"
-    },
-    {
-        "slug": "controle-su-inventario",
-        "title": "Controle su inventario",
-        "desc": "Mantenga las unidades físicas sincronizadas con las del sistema, sepa cuándo ordenar sus productos y vea cómo estos contribuyen (o no) a su ganancia.",
-        "lang": "es",
-        "id": "mWFxihAbFZ8"
-    },
-    {
-        "slug": "cree-sus-impuestos-y-retenciones-parte-1",
-        "title": "Cree sus impuestos y retenciones - Parte 1",
-        "desc": "Maneje los impuestos y retenciones acorde a las necesidades de su país.",
-        "lang": "es",
-        "id": "9V0MTOZLcdk"
-    },
-    {
-        "slug": "cree-notas-credito",
-        "title": "Cree notas crédito",
-        "desc": "Maneje adecuadamente los créditos dados a clientes y recibidos de proveedores.",
-        "lang": "es",
-        "id": "IuEDwIhuOEo"
     },
     {
         "slug": "configure-los-vencimientos-para-sus-facturas",
@@ -140,46 +85,68 @@
         "id": "Vnp6ZdoR3BI"
     },
     {
-        "slug": "keep-your-business-finances-under-control-and-up-to-date",
-        "title": "Keep your business finances under control and up to date",
-        "desc": "Take the financial reins of your business and keep its accounts in order and up to date.",
-        "lang": "en",
-        "id": "f0dSeD3q3Ns"
+        "slug": "cree-notas-credito",
+        "title": "Cree notas crédito",
+        "desc": "Para crear Notas Crédito debemos tener presente el motivo de la devolución y la acción que se quiere tomar.",
+        "lang": "es",
+        "id": "c6r1kzIu9Wo"
     },
     {
-        "slug": "invoice-your-customers-in-a-simple-and-elegant-way",
-        "title": "Invoice your customers in a simple and elegant way",
-        "desc": "Create and customize your invoices with your company's logo, print them, or email them directly to your customers.",
-        "lang": "en",
-        "id": "4nTPEaEAx_Q"
+        "slug": "como-y-donde-arrancar-parte-1",
+        "title": "Cómo y Dónde Arrancar - Parte 1",
+        "desc": "Primero lo primero: Antes de comenzar a ingresar transacciones debemos ingresar los saldos iniciales de cuentas por cobrar, cuentas por pagar, inventario y efectivo (incluyendo créditos)",
+        "lang": "es",
+        "id": "61xx5xK9hTM",
+        "next": "v5qQ8-xtFEw"
     },
     {
-        "slug": "get-paid-on-time",
-        "title": "Get paid on time",
-        "desc": "Keep your sales and collection data up to date to make sure customers are paying you when and how they should.",
-        "lang": "en",
-        "id": "U6PN3F5q-C0"
+        "slug": "como-y-donde-arrancar-parte-2",
+        "title": "Cómo y Dónde Arrancar - Parte 2",
+        "desc": "Estamos listos para comenzar: Revisemos cómo ingresar diferentes tipos de transacciones y el impacto de las mismas en las diferentes secciones de la aplicación",
+        "lang": "es",
+        "id": "v5qQ8-xtFEw"
     },
     {
-        "slug": "control-your-inventory",
-        "title": "Control your inventory",
-        "desc": "Maintain system and real quantities synced, know when to reorder, and see how your products are contributing (or not) to your bottom line.",
-        "lang": "en",
-        "id": "bTJ4-rnkzqk"
+        "slug": "configuracion-de-la-factura",
+        "title": "Configuración de la Factura ",
+        "desc": "Comencemos por asegurarnos que la factura tiene toda la información que necesitamos y que se vea bien",
+        "lang": "es",
+        "id": "iUhXMyUWtKw"
     },
     {
-        "slug": "control-your-cash",
-        "title": "Control your cash",
-        "desc": "Make sure everything (that should) has been accounted by keeping your cash accounts up to date and reconciled.",
-        "lang": "en",
-        "id": "YI5jDEjOq8A"
+        "slug": "impresion-y-envio-de-la-factura-por-email",
+        "title": "Impresión y Envío de la Factura por Email",
+        "desc": "Ahora que nuestra factura está lista, revisemos como podemos imprimirla y enviarla por email a nuestros clientes",
+        "lang": "es",
+        "id": "elLeoN9MSXM"
     },
     {
-        "slug": "manage-your-cash-flow",
-        "title": "Manage your cash flow",
-        "desc": "Stay ahead of the game and avoid nasty surprises by entering pending collections and payments, as well as recurring expenses.",
-        "lang": "en",
-        "id": "dziMNOGtabA"
+        "slug": "haga-sus-cobros-a-tiempo",
+        "title": "Haga sus cobros a tiempo",
+        "desc": "Mantenga sus cuentas por cobrar al día para asegurarse que sus clientes le están pagando según lo acordado.",
+        "lang": "es",
+        "id": "K8rIA7hA2Uk"
+    },
+    {
+        "slug": "controle-su-efectivo",
+        "title": "Controle su efectivo",
+        "desc": "Asegúrese que todo (lo que debería) ha sido contabilizado manteniendo sus cuentas de efectivo actualizadas y reconciliadas.",
+        "lang": "es",
+        "id": "FVv_pc9AcsU"
+    },
+    {
+        "slug": "maneje-su-flujo-de-caja",
+        "title": "Maneje su flujo de caja",
+        "desc": "Manténgase “en la jugada” y evite sorpresas desagradables registrando cobros y pagos pendientes, así como gastos recurrentes.",
+        "lang": "es",
+        "id": "-z_zb0t9BlE"
+    },
+    {
+        "slug": "controle-su-inventario",
+        "title": "Controle su inventario",
+        "desc": "Mantenga las unidades físicas sincronizadas con las del sistema, sepa cuándo ordenar sus productos y vea cómo estos contribuyen (o no) a su ganancia.",
+        "lang": "es",
+        "id": "mWFxihAbFZ8"
     },
     {
         "slug": "manage-multiple-price-lists",
@@ -252,19 +219,11 @@
         "id": "fSXDJSnE3FY"
     },
     {
-        "slug": "como-y-donde-arrancar-parte-1",
-        "title": "Cómo y Dónde Arrancar - Parte 1",
-        "desc": "Primero lo primero: Antes de comenzar a ingresar transacciones debemos ingresar los saldos iniciales de cuentas por cobrar, cuentas por pagar, inventario y efectivo (incluyendo créditos)",
-        "lang": "es",
-        "id": "61xx5xK9hTM",
-        "next": "v5qQ8-xtFEw"
-    },
-    {
-        "slug": "como-y-donde-arrancar-parte-2",
-        "title": "Cómo y Dónde Arrancar - Parte 2",
-        "desc": "Estamos listos para comenzar: Revisemos cómo ingresar diferentes tipos de transacciones y el impacto de las mismas en las diferentes secciones de la aplicación",
-        "lang": "es",
-        "id": "v5qQ8-xtFEw"
+        "slug": "create-credit-notes",
+        "title": "Create credit notes",
+        "desc": "To create credit notes we must keep in mind the reason for the return and the action you want to take.",
+        "lang": "en",
+        "id": "AkfQGoMkELg"
     },
     {
         "slug": "how-and-where-to-start-part-1",
@@ -280,5 +239,117 @@
         "desc": "We are ready to start: Let’s review how to enter different type of transactions and their impact on the different sections of the application",
         "lang": "en",
         "id": "Dq-WLR00uNg"
+    },
+    {
+        "slug": "invoice-settings",
+        "title": "Invoice Settings",
+        "desc": "Let’s start by making sure that our invoice has all the information we need and that it looks good",
+        "lang": "en",
+        "id": "If7PW-zYB9w"
+    },
+    {
+        "slug": "printing-and-sending-the-invoice-by-email",
+        "title": "Printing and Sending the Invoice by Email",
+        "desc": "Now that our invoice is ready, let’s check how we can print it and send it by email to our customers",
+        "lang": "en",
+        "id": "5tdto25vhyg"
+    },
+    {
+        "slug": "get-paid-on-time",
+        "title": "Get paid on time",
+        "desc": "Keep your sales and collection data up to date to make sure customers are paying you when and how they should.",
+        "lang": "en",
+        "id": "U6PN3F5q-C0"
+    },
+    {
+        "slug": "control-your-cash",
+        "title": "Control your cash",
+        "desc": "Make sure everything (that should) has been accounted by keeping your cash accounts up to date and reconciled.",
+        "lang": "en",
+        "id": "YI5jDEjOq8A"
+    },
+    {
+        "slug": "manage-your-cash-flow",
+        "title": "Manage your cash flow",
+        "desc": "Stay ahead of the game and avoid nasty surprises by entering pending collections and payments, as well as recurring expenses.",
+        "lang": "en",
+        "id": "dziMNOGtabA"
+    },
+    {
+        "slug": "control-your-inventory",
+        "title": "Control your inventory",
+        "desc": "Maintain system and real quantities synced, know when to reorder, and see how your products are contributing (or not) to your bottom line.",
+        "lang": "en",
+        "id": "bTJ4-rnkzqk"
+    },
+    {
+        "slug": "cree-una-orden-de-compra-a-partir-de-una-orden-de-venta",
+        "title": "Cree una orden de compra a partir de una orden de venta",
+        "desc": "Cree una orden de compra a partir de una orden de venta",
+        "lang": "es",
+        "id": "5AjEH7F8PoY"
+    },
+    {
+        "slug": "vea-su-reporte-de-flujo-de-caja-por-cuentas",
+        "title": "Vea su reporte de flujo de caja por cuentas",
+        "desc": "Vea ahora su reporte de flujo de caja, organizado por tipos de cuenta.",
+        "lang": "es",
+        "id": "mIrFea1hxBU"
+    },
+    {
+        "slug": "cree-un-plan-de-pago-para-una-factura",
+        "title": "Cree un plan de pago para una factura",
+        "desc": "Asigne un plan de pagos a una factura de ingresos.",
+        "lang": "es",
+        "id": "0kwCkikrbd0"
+    },
+    {
+        "slug": "configure-los-comprobantes-de-pago",
+        "title": "Configure los comprobantes de pago",
+        "desc": "Configure los comprobantes de pago de ingresos y gastos.",
+        "lang": "es",
+        "id": "PA8gye_7gnA"
+    },
+    {
+        "slug": "vea-sus-movimientos-de-inventario",
+        "title": "Vea sus movimientos de inventario",
+        "desc": "Controle su inventario usando la opción de movimientos de inventario.",
+        "lang": "es",
+        "id": "bhLCZOVIwf8"
+    },
+    {
+        "slug": "view-your-cash-flow-report-by-accounts",
+        "title": "View your cash flow report by accounts",
+        "desc": "See now your cash flow report, organized by account types.",
+        "lang": "en",
+        "id": "LynmCXnWxnk"
+    },
+    {
+        "slug": "create-a-payment-plan-for-an-invoice",
+        "title": "Create a payment plan for an invoice",
+        "desc": "Assign a payment plan to an income bill.",
+        "lang": "en",
+        "id": "15fvpf2EQQs"
+    },
+    {
+        "slug": "configure-your-payment-receipts",
+        "title": "Configure your payment receipts",
+        "desc": "Set up receipts for income and expenses.",
+        "lang": "en",
+        "id": "dZW-sb0n7EM"
+    },
+    {
+        "slug": "view-your-changes-in-inventory",
+        "title": "View your changes in inventory",
+        "desc": "Control your inventory using the inventory move option.",
+        "lang": "en",
+        "id": "MrfYSMxIfzI"
+    },
+    {
+        "slug": "create-a-purchase-order-from-a-sales-order",
+        "title": "Create a purchase order from a sales order",
+        "desc": "Create a purchase order from a sales order",
+        "lang": "en",
+        "id": "X6f2y8DCCno"
     }
 ]
